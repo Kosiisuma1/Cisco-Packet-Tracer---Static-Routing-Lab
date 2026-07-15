@@ -112,7 +112,7 @@ ping
 
 ## PC1 → PC44
 
-![PC1 to PC44](images/ping_pc1_pc44.png)
+![PC1 to PC44](images/PINGRESULT2.png)
 
 The first ping request timed out due to ARP resolution, while the remaining packets were successfully delivered, confirming proper routing.
 
@@ -120,7 +120,15 @@ The first ping request timed out due to ARP resolution, while the remaining pack
 
 ## PC44 → PC33
 
-![PC44 to PC33](images/ping_pc44_pc33.png)
+![PC44 to PC33](images/PINGRESULT3.png)
+
+Successful end-to-end communication between different LANs confirmed that the static routes were correctly configured.
+
+---
+
+## PC22 → PC11
+
+![PC22 to PC11](images/PINGRESULT3.png)
 
 Successful end-to-end communication between different LANs confirmed that the static routes were correctly configured.
 
