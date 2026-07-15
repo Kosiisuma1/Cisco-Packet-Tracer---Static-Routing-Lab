@@ -128,7 +128,7 @@ Successful end-to-end communication between different LANs confirmed that the st
 
 ## PC22 → PC11
 
-![PC22 to PC11](images/PING_RESULT_3.png)
+![PC22 to PC11](images/PINGRESULT3.png)
 
 Successful end-to-end communication between different LANs confirmed that the static routes were correctly configured.
 
