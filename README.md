@@ -100,8 +100,6 @@ ping
 
 ---
 
-![Network Topology](images/IPROUTER4.png)
-
 Network connectivity was verified using:
 
 ```bash
