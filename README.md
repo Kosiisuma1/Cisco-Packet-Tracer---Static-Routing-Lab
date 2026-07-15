@@ -85,7 +85,7 @@ ip route 10.0.4.0 255.255.255.0 192.168.12.2
 ![CLI R1](images/CLIR1.png)
 ![CLI R2](images/CLIR2.png)
 ![CLI R3](images/CLIR3.png)
-![CLI R4](images/CLI4.png)
+![CLI R4](images/CLIR4.png)
 # 🔍 Verification
 
 Routing tables were verified using:
