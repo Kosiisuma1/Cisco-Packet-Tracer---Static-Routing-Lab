@@ -10,7 +10,7 @@ Unlike dynamic routing protocols such as RIP, OSPF, or EIGRP, this project uses 
 
 # 🖥️ Network Topology
 
-![Network Topology](images/network-topology.png)
+![Network Topology](images/network-topology.png.png)
 
 ---
 
